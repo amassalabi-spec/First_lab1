@@ -31,6 +31,3 @@ print(page)
 s=page.text
 with open("test1.txt","w",encoding="utf-8") as f:
     f.write(s)
-
-import os
-print("Le fichier est ici :", os.getcwd())
