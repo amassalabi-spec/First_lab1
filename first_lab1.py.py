@@ -63,3 +63,11 @@ while True:
         s=page.text
     else:
         break
+
+
+
+
+with open("test1.csv","r",encoding="utf-8") as f:
+    reader = csv.reader(f)
+    for row in reader:
+        print(row)    
