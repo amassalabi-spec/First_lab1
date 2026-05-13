@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Mental",
+        "tagline": "How Men Strengthen Their Mindset",
+        "votes": "5 reviews",
+        "url": ""
+    },
+    {
+        "id": 2,
+        "name": "mentalport-app: AI Mental Health Coach",
+        "tagline": "Personal systemic AI coach, everyday companion & health hub",
+        "votes": "3 reviews",
+        "url": ""
+    },
+    {
+        "id": 3,
+        "name": "Yuna AI — Your Mental Health Coach",
+        "tagline": "A safe place for self-discovery",
+        "votes": "1 review",
+        "url": ""
+    },
+    {
+        "id": 4,
+        "name": "Ash",
+        "tagline": "The first AI designed for therapy",
+        "votes": "2 reviews",
+        "url": ""
+    },
+    {
+        "id": 5,
+        "name": "todai",
+        "tagline": "Your first personalized happy lifestyle index",
+        "votes": "3 reviews",
+        "url": ""
+    },
+    {
+        "id": 6,
+        "name": "TherapyAI",
+        "tagline": "AI Therapist for stress and anxiety",
+        "votes": "5 reviews",
+        "url": ""
+    },
+    {
+        "id": 7,
+        "name": "MYND",
+        "tagline": "24/7 AI Bestie For Your Mental Wellness",
+        "votes": "0 reviews",
+        "url": ""
+    },
+    {
+        "id": 8,
+        "name": "Soula Care",
+        "tagline": "AI-powered assistant for pregnancy, birth and postpartum",
+        "votes": "14 reviews",
+        "url": ""
+    },
+    {
+        "id": 9,
+        "name": "Guin - Your GoodMind Buddy",
+        "tagline": "It's all about YOU!",
+        "votes": "0 reviews",
+        "url": ""
+    },
+    {
+        "id": 10,
+        "name": "MoodGallery: Emotions to art",
+        "tagline": "Turn your moods into personalized AI artwork",
+        "votes": "1 review",
+        "url": ""
+    }
+]
