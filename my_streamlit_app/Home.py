@@ -92,8 +92,6 @@ with col_auth:
     st.markdown("#### Cadre Académique")
     with st.container(border=True):
         st.markdown("""
-        * **Établissement :** École Nationale Supérieure d'Informatique et d'Analyse des Systèmes (**ENSIAS**)
+        * **Établissement :** École Nationale Supérieure d'Informatique et d'Analyse des Systèmes
         * **Spécialisation :** Business Intelligence & Analytics (**BI&A**)
-        * **Projet :** Lab Évalué d'Introduction à la Data Science
-        * **Auteurs :** *[Ajoute ton nom et celui de ton binôme ici]*
         """)
